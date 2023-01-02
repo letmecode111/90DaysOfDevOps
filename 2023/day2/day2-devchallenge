@@ -1,0 +1,3 @@
+pwd > this is a command for in which directory you are in right now .
+ls -a > to list out all the files with hidden files .
+mkdir a/b/c/d > commad for making nested directories.
